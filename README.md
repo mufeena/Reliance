@@ -1,1 +1,1 @@
- https://mufeena.github.io/Reliance/
+#output https://mufeena.github.io/Reliance/
